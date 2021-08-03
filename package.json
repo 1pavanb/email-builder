@@ -5,6 +5,7 @@
   },
   "devDependencies": {
     "fs-extra": "^9.1.0",
-    "live-server": "^1.2.1"
+    "live-server": "^1.2.1",
+    "glob-parent":"^5.1.2"
   }
 }
